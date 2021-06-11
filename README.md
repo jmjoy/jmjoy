@@ -1,28 +1,25 @@
-<!--
-**jmjoy/jmjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 小数据
 
-Here are some ideas to get you started:
+<div>
+    <span style="display: inline-block;">
+        <image src="https://github-readme-stats.vercel.app/api?username=jmjoy&show_icons=true&layout=compact&theme=solarized-light" height="150" />
+    </span>
+    <span style="display: inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmjoy&layout=compact&theme=solarized-light" height="150" />
+    <span style="display: inline-block;">
+    </span>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 减压小黄豆
 
-<!--
-# jmjoy
-
-## Personal
--->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmjoy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjoy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-## Pinned
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmjoy&repo=graphicsmagick-rs)](https://github.com/jmjoy/graphicsmagick-rs) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmjoy&repo=apollo-client)](https://github.com/jmjoy/apollo-client) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmjoy&repo=idgend)](https://github.com/jmjoy/idgend) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmjoy&repo=keyboard-layout)](https://github.com/jmjoy/keyboard-layout) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmjoy&repo=dnsmasq-plus)](https://github.com/jmjoy/dnsmasq-plus) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmjoy&repo=fastcgi-client-rs)](https://github.com/jmjoy/fastcgi-client-rs) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmjoy&repo=serde_var_export)](https://github.com/jmjoy/serde_var_export) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmjoy&repo=go-chatroom)](https://github.com/jmjoy/go-chatroom) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmjoy&repo=phper)](https://github.com/jmjoy/phper) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmjoy&repo=ArSql)](https://github.com/jmjoy/ArSql) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmjoy&repo=http-api-tester)](https://github.com/jmjoy/http-api-tester) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TriangleGo&repo=snake)](https://github.com/TriangleGo/snake)
--->
+<div>
+    <span style="display: inline-block;">
+        <h3>我于黄豆之中绽放，亦如蚌埠住了的花朵</h3>
+        <image src="https://raw.githubusercontent.com/jmjoy/jmjoy/master/static/images/%E6%88%91%E4%BA%8E%E9%BB%84%E8%B1%86%E4%B9%8B%E4%B8%AD%E7%BB%BD%E6%94%BE%EF%BC%8C%E4%BA%A6%E5%A6%82%E8%9A%8C%E5%9F%A0%E4%BD%8F%E4%BA%86%E7%9A%84%E8%8A%B1%E6%9C%B5.webp" height="250" />
+    </span>
+    <span style="display: inline-block;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <span style="display: inline-block;">
+        <h3>太阳照常升起</h3>
+        <image src="https://raw.githubusercontent.com/jmjoy/jmjoy/master/static/images/%E5%A4%AA%E9%98%B3%E7%85%A7%E5%B8%B8%E5%8D%87%E8%B5%B7.gif" height="250" />
+    </span>
+</div>
