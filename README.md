@@ -16,7 +16,7 @@
 <table cellpadding="10">
     <tr>
         <td style="text-align: center;">
-            <h3>我于黄豆之中绽放，亦如蚌埠住了的花朵</h3>
+            <h3>阳光灿烂的日子</h3>
             <image src="https://raw.githubusercontent.com/jmjoy/jmjoy/master/static/images/%E6%88%91%E4%BA%8E%E9%BB%84%E8%B1%86%E4%B9%8B%E4%B8%AD%E7%BB%BD%E6%94%BE%EF%BC%8C%E4%BA%A6%E5%A6%82%E8%9A%8C%E5%9F%A0%E4%BD%8F%E4%BA%86%E7%9A%84%E8%8A%B1%E6%9C%B5.webp" height="250" />
         </td>
         <td style="text-align: center;">
