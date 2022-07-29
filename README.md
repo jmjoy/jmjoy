@@ -2,7 +2,7 @@
 
 <h3 font-size="20" align="center">A programmer who loves open source. <img align="center" height="15rem" src="https://komarev.com/ghpvc/?username=jmjoy"></h3>
 
-- 👨‍💻 Currently engaged in operation and maintenance development and infrastructure. <img align="right" style="width:auto; height:13rem" src="static/images/太阳照常升起.gif"/>
+- 👨‍💻 Currently engaged in DevOps and Infrastructure. <img align="right" style="width:auto; height:13rem" src="static/images/太阳照常升起.gif"/>
 
 - 🦀 Heavy use of <a href="https://www.rust-lang.org/">@rust</a>.
 
