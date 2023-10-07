@@ -20,6 +20,7 @@
 
 ---
 
+<!--
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -81,6 +82,8 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ----
+
+--!>
 
 <div align="center"><h2 align="center" style="margin: 5px 10px;"><u><b>Github Stats</u></b></h2>
 
