@@ -2,6 +2,12 @@
 
 <h3 font-size="20" align="center">A programmer who loves open source. <img align="center" height="15rem" src="https://komarev.com/ghpvc/?username=jmjoy"></h3>
 
+## 关于这个项目 / About This Project
+
+这是我的 GitHub 个人资料页面仓库。当你访问 [@jmjoy](https://github.com/jmjoy) 时，这个 README 会显示在我的个人资料页面上，用来介绍我的技能、兴趣和项目统计。
+
+*This is my GitHub profile README repository. When you visit [@jmjoy](https://github.com/jmjoy), this README is displayed on my profile page to showcase my skills, interests, and project statistics.*
+
 - 👨‍💻 Currently engaged in DevOps and Infrastructure.
 
 - 🦀 Heavy use of <a href="https://www.rust-lang.org/">@rust</a>.
